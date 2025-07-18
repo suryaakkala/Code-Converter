@@ -89,7 +89,5 @@ GitHub: [@suryaakkala](https://github.com/suryaakkala)
 
 ---
 
-## 📜 License
 
-MIT License.  
 Feel free to fork and enhance the project!
